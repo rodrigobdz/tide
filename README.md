@@ -1,4 +1,4 @@
-# <div align="center"><img src="../assets/images/logo.svg" width="500"/></div>
+# <div align="center"><img src="../assets/images/logo.svg" width="480"/></div>
 
 <img src="../assets/images/header.png" width="50%" align="right"/>
 
@@ -7,7 +7,6 @@
 - **Out of the box:** With three compelling styles and lots of options, you can have your ready-to-run cake and customize it too.
 - **Flexible:** Move content around or remove it, all without ever touching a line of code.
 - **Extensible:** Create custom content with simple Fish functions that integrate seamlessly.
-- **Fast:** Asynchronous rendering makes Tide the fastest full-featured Fish prompt.
 
 ## Installation
 
