@@ -1,4 +1,4 @@
-# <div align="center"><img src="../assets/images/logo.svg" width="55%"/></div>
+# <div align="center"><img src="../assets/images/logo.svg" width="450"/></div>
 
 <img src="../assets/images/header.png" width="50%" align="right"/>
 
@@ -8,8 +8,6 @@
 - **Flexible:** Move content around or remove it, all without ever touching a line of code.
 - **Extensible:** Create custom content with simple Fish functions that integrate seamlessly.
 - **Fast:** Asynchronous rendering makes Tide the fastest full-featured Fish prompt.
-
-<br clear="right">
 
 ## Installation
 
