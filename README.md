@@ -2,8 +2,6 @@
 
 <img src="../assets/images/logo.svg" width="61.8%"/><br>
 
-[![ci_badge][]][actions] ​ [![license_badge][]][license] ​ [![blazing_badge][]][blazing_tweet] <!-- 0 width spaces on this line -->
-
 </div>
 
 #
