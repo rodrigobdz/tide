@@ -8,7 +8,7 @@
 
 <img src="../assets/images/header.png" width="50%" align="right"/>
 
-**The ultimate Fish prompt.** <sub>[![ci_badge][]][actions]</sub>
+**The ultimate Fish prompt.** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>[![ci_badge][]][actions]</sub>
 
 - **Out of the box:** With three compelling styles and lots of options, you can have your ready-to-run cake and customize it too.
 - **Flexible:** Move content around or remove it, all without ever touching a line of code.
