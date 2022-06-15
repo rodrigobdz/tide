@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="../assets/images/logo.svg" width="61.8%"/>
-
-</div>
+<img src="../assets/images/logo.svg" width="61.8%" align="center"/>
 
 #
 
