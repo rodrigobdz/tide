@@ -1,10 +1,14 @@
-<img src="../assets/images/logo.svg" width="61.8%" align="center"/>
+<div align="center">
+
+<img src="../assets/images/logo.svg" width="61.8%"/>
+
+</div>
 
 #
 
 <img src="../assets/images/header.png" width="50%" align="right"/>
 
-**The ultimate Fish prompt.**
+**The ultimate Fish prompt.** [![ci_badge][]][actions]
 
 - **Out of the box:** With three compelling styles and lots of options, you can have your ready-to-run cake and customize it too.
 - **Flexible:** Move content around or remove it, all without ever touching a line of code.
