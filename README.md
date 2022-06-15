@@ -1,4 +1,4 @@
-# <div align="center"><img src="../assets/images/logo.svg" width="61.8%"/></div>
+# <div align="center"><img src="../assets/images/logo.svg" width="55%"/></div>
 
 <img src="../assets/images/header.png" width="50%" align="right"/>
 
