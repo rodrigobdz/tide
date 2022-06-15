@@ -2,7 +2,7 @@
 
 <img src="../assets/images/header.png" width="50%" align="right"/>
 
-**The ultimate Fish prompt.**&thinsp;&thinsp;&thinsp;&thinsp;<sub>[<img src="https://github.com/IlanCosman/tide/workflows/CI/badge.svg" width="75"/>][actions]</sub>
+**The ultimate Fish prompt.**
 
 - **Out of the box:** With three compelling styles and lots of options, you can have your ready-to-run cake and customize it too.
 - **Flexible:** Move content around or remove it, all without ever touching a line of code.
