@@ -8,6 +8,8 @@
 - **Flexible:** Move content around or remove it, all without ever touching a line of code.
 - **Extensible:** Create custom content with simple Fish functions that integrate seamlessly.
 
+<br clear="right">
+
 ## Installation
 
 ### System Requirements
