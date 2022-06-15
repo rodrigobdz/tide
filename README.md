@@ -7,7 +7,6 @@
 - **Out of the box:** With three compelling styles and lots of options, you can have your ready-to-run cake and customize it too.
 - **Flexible:** Move content around or remove it, all without ever touching a line of code.
 - **Extensible:** Create custom content with simple Fish functions that integrate seamlessly.
-
 <br clear="right">
 
 ## Installation
