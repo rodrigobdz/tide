@@ -60,6 +60,23 @@ In general, just run `make` to do everything.
 
 All links should be in the [reference style][], with references at the bottom of the document in alphabetical order.
 
+### Images
+
+- Xfce4 default terminal
+- Tango color scheme
+- Github default dark mode background (`#0d1117`)
+- Recommended font
+- Add padding to the terminal by putting the following in `~/.config/gtk-3.0/gtk.css`
+
+```css
+VteTerminal,
+vte-terminal {
+  padding: 12px;
+}
+```
+
+- Header image: 12pt font, 55x16 lines
+
 ## Release Checklist
 
 - [ ] Update version number in `tide.fish`
