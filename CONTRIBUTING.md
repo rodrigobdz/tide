@@ -75,7 +75,7 @@ vte-terminal {
 }
 ```
 
-- Header image: 12pt font, 55x16 lines
+- Header image: 13pt font, 55x16 lines
 - Wizard gif: 18pt font, 80x25 lines, set peek to 1143x799 px
 - Extensible image: 14pt font, 73x11 lines
 
