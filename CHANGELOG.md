@@ -10,6 +10,7 @@
 - Add elixir Item ([#373] - @aselder)
 - Git branch truncation has reverted to keeping the beginning
   - Use `set tide_git_truncation_strategy l` to keep the end instead
+- Added a new `tide reload` subcommand to make changes to Tide appear in the current shell
 
 ### Bug fixes
 
